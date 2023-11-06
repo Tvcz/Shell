@@ -1,8 +1,10 @@
+### Created for my 2022 Computer Systems course.
+
 # Shell
 
 A simple command-line shell utility built in C, based off of `bash`.
 
-Created for my 2022 Computer Systems course.
+## Makefile
 
 The [Makefile](Makefile) contains the following targets:
 
